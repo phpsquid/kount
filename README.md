@@ -1,5 +1,5 @@
 # kount
-Go SDK for Kount's RSI API 
+Go SDK for Kount's RIS API 
 
 # Install
 ```
