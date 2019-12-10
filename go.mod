@@ -1,3 +1,3 @@
-module phpsquid/kount
+module github.com/phpsquid/kount
 
 go 1.13
